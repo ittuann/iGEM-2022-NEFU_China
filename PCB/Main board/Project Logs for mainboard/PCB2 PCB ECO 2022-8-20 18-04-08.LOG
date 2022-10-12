@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=5V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=5V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=5V Pin=L1-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=5V Pin=R10-1
+Added Room: Name=Sheet2

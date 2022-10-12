@@ -1,0 +1,4 @@
+Added Component: Designator=L1(0630L)
+Added Pin To Net: NetName=NetD1_K Pin=L1-1
+Added Pin To Net: NetName=NetC6_1 Pin=L1-2
+Added Member To Class: ClassName=Sheet2 Member=Component L1 INDUCTOR
