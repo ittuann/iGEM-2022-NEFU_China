@@ -2,7 +2,7 @@
 
 This is iGEM team NEFU_China 2022 GitHub Repository.
 
-Detailed information about this project can be found on our [Wiki Website](https://2022.igem.org/Team:NEFU_China/Hardware). <https://2022.igem.org/Team:NEFU_China/Hardware> and <https://2022.igem.wiki/nefu-china/hardware> are both available.
+Detailed information about this project can be found on our [Wiki Website](https://2022.igem.wiki/nefu-china/hardware): <https://2022.igem.wiki/nefu-china/hardware> . 
 
 ## Repository Directory Structure
 
