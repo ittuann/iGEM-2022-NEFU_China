@@ -1,26 +1,32 @@
+<div style="text-align:center;">
+    <a href="https://2022.igem.wiki/nefu-china/index">
+        <img src="https://static.igem.wiki/teams/4121/wiki/home/home-back.png" alt="iGEM NEFU-China">
+    </a>
+</div>
+
 # iGEM 2022 NEFU_China Open Project
 
 This is iGEM team NEFU_China 2022 GitHub Repository.
 
-Detailed information about this project can be found on our [Wiki Website](https://2022.igem.wiki/nefu-china/hardware): <https://2022.igem.wiki/nefu-china/hardware> . 
+Detailed information about this project can be found on our **[Wiki Website](https://2022.igem.wiki/nefu-china/hardware)**: <https://2022.igem.wiki/nefu-china/hardware>
 
 ## Repository Directory Structure
 
 Under each folder exists a README.md document, which can be viewed for more information.
 
-- Code
+- **Code**
 
   Contains all project code for our four modules. (Pipette Module, Frame Module, Robotic Arm Module, Visual Identification Module)
 
-- Model
+- **Model**
 
   Contains all the hardware 3D models we have created (in STL format), and the complete SolidWorks project that used to create these models.
 
-- PCB
+- **PCB**
 
   Contains two PCB projects that we designed using Altium Designer.
 
-- Document
+- **Document**
 
   Contains operation document for our hardware.
 
